@@ -33,3 +33,6 @@ Python 社群網路聲量分析實作
 
 ## ChatGPT
 - https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_ChatGPT.ipynb
+
+## LlamaIndex 與儀表板
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_llamaindex_dashboard.ipynb
