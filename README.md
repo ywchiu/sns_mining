@@ -20,5 +20,16 @@ Python 社群網路聲量分析實作
 - https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230415_database_and_statistics.ipynb
 
 ## 文字探勘
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230415_text_mining.ipynb
 
-## 
+## 詞袋模型
+
+## Word2Vec
+
+## BERT
+
+## ChatGPT
+
+## LLama_Index
+
+## 儀表板
