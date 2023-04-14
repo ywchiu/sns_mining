@@ -23,13 +23,13 @@ Python 社群網路聲量分析實作
 - https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230415_text_mining.ipynb
 
 ## 詞袋模型
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230415_bag_of_words.ipynb
 
 ## Word2Vec
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_word2vec.ipynb
 
 ## BERT
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_BERT.ipynb
 
 ## ChatGPT
-
-## LLama_Index
-
-## 儀表板
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_ChatGPT.ipynb
