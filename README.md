@@ -16,8 +16,8 @@ Python 社群網路聲量分析實作
 ## 網路爬蟲
 - https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230415_web_crawler.ipynb
 
-
 ## 資料庫與敘述性統計
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230415_database_and_statistics.ipynb
 
 ## 文字探勘
 
