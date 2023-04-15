@@ -2,6 +2,9 @@
 
 Python 社群網路聲量分析實作
 
+## 課程內容 (20230415)
+- https://colab.research.google.com/drive/12Ht_S_8zbW8W9D3dUn9Y7DSt-4J9U65S?usp=sharing
+
 ## Python 開發工具簡介
 
 ### Anaconda 安裝說明
