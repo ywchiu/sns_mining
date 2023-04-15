@@ -8,6 +8,9 @@ Python 社群網路聲量分析實作
 - 網站：infominer.io
 - 教學影片：https://www.youtube.com/playlist?list=PLm7Cuso7baYX2M8IpDB0em_6i-rFPI5dH
 
+## Playground API 申請
+- https://platform.openai.com/playground
+
 ## 課程內容 (20230415)
 - https://colab.research.google.com/drive/12Ht_S_8zbW8W9D3dUn9Y7DSt-4J9U65S?usp=sharing
 
