@@ -14,6 +14,9 @@ Python 社群網路聲量分析實作
 ## 課程內容 (20230415)
 - https://colab.research.google.com/drive/12Ht_S_8zbW8W9D3dUn9Y7DSt-4J9U65S?usp=sharing
 
+## 課程內容 (20230422)
+- https://colab.research.google.com/drive/1Z5YlUErToEvxO3u6dPKgnOfnKSDDP5i9?usp=sharing
+
 ## Python 開發工具簡介
 
 ### Anaconda 安裝說明
@@ -42,6 +45,9 @@ Python 社群網路聲量分析實作
 
 ## BERT
 - https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_BERT.ipynb
+
+## GPT2 & Embedding
+- https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_GPT2_training.ipynb
 
 ## ChatGPT
 - https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230422_ChatGPT.ipynb
