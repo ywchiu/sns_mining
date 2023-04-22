@@ -4,7 +4,6 @@ Python 社群網路聲量分析實作
 
 ## InfoMiner 試用帳號
 - 帳號：tibame1~ tibame10 @largitdata.com
-- 密碼：tibame%d%d%d%d
 - 網站：infominer.io
 - 教學影片：https://www.youtube.com/playlist?list=PLm7Cuso7baYX2M8IpDB0em_6i-rFPI5dH
 
