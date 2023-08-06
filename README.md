@@ -30,6 +30,10 @@ Python 社群網路聲量分析實作
 
 ### Bard
 - https://bard.google.com/
+  
+### Data Visulization
+- https://www.youtube.com/watch?v=jbkSRLYSojo
+
 
 ## 網路爬蟲
 - https://colab.research.google.com/github/ywchiu/sns_mining/blob/main/code/20230415_web_crawler.ipynb
