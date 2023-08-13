@@ -5,6 +5,9 @@ Python 社群網路聲量分析實作
 ## Playground API 申請
 - https://platform.openai.com/playground
 
+## 課程內容 (20230813)
+- https://colab.research.google.com/drive/1ZAeRqlWPHDqpsafKB-51pcmliVUauI6h?usp=sharing
+
 ## 課程內容 (20230806)
 - https://colab.research.google.com/drive/18jeg1XQ4PQl6mu86VM_-cn5KNZU6D7z9?usp=sharing
 
